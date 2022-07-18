@@ -83,10 +83,10 @@ function backg(obg){
             obg.style = "background-image: url(img/java.svg);";
             break;
         case 2:
-            obg.style = "background-image: url(img/C.png);";
+            obg.style = "background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png);";
             break;
         case 3:
-            obg.style = "background-image: url(img/C++.png);";
+            obg.style = "background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png);";
             break;
         case 4:
             obg.style = "background-image: url(img/JavaScript.png);";
